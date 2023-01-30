@@ -20,4 +20,5 @@ Eu subi uma branch de nome `solution` com a minha resolução do desafio para qu
 ## Resolução do desafio
 <p>Abaixo segue imagem de como ficou o projeto junto ao codigo</p>
 <p>Do lado esquerdo segue link do projeto publicado pelo <b>Vercel</b></p>
-![image](https://user-images.githubusercontent.com/23459929/215551933-6acbdec5-d7bf-4905-927b-3bb6220e7acc.png)
+![image](https://user-images.githubusercontent.com/23459929/215552720-87d7c137-8e6e-47b8-b29f-abf91a517774.png)
+
