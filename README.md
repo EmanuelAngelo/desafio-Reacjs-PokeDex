@@ -18,7 +18,9 @@ https://pokeapi.co/api/v2/pokemon
 Eu subi uma branch de nome `solution` com a minha resolução do desafio para que você possa utilizar para estudos ou queira comparar com a sua solução.
 
 ## Resolução do desafio
-<p>Abaixo segue imagem de como ficou o projeto junto ao codigo</p>
-<p>Do lado esquerdo segue link do projeto publicado pelo <b>Vercel</b></p>
+Abaixo segue imagem de como ficou o projeto junto ao codigo<br>
+Do lado esquerdo segue link do projeto publicado pelo <b>Vercel</b><br>
 ![image](https://user-images.githubusercontent.com/23459929/215552720-87d7c137-8e6e-47b8-b29f-abf91a517774.png)
 
+
+## Irei melhorar o resultado
